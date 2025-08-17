@@ -71,7 +71,6 @@ header h4 {
     top: 40vh;
     font-size: 14px;
     padding: 3px;
-    -webkit-transition: all 0.1s ease-out;
   }
   #yes{
     position: absolute;
@@ -80,6 +79,5 @@ header h4 {
     top: 40vh;
     font-size: 14px;
     padding: 3px;
-    -webkit-transition: all 0.3s ease-out;
   }
 }
